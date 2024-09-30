@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexzeloco&label=Profile%20views&color=0e75b6&style=flat" alt="alexzeloco" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C# & .NET**
 
-- 💬 Ask me about **Backend and math!**
+- 💬 Ask me about **C, HPC and math!**
 
-- 📫 How to reach me **alejandro.rod.lop@gmail.com**
+- 📫 How to reach me **alex@alexrl.com**
 
 - ⚡ Fun fact **I have SIGSEGV for breakfast**
 
